@@ -1,4 +1,4 @@
 # hello-world
 A Hello World repository - GitHub tutorial
-# changes added
-Some changes added. This UI reminds of Jupyter Notebooks...
+# edits in branch readme-edits
+Some changes added to README.md in the readme-edits branch.
